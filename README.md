@@ -80,46 +80,46 @@ Steps to Execute the Program:
               
 4. Please refer the image PrimKrushkal.png file.
 5. Diagonal weight values (without vertex):
-    7
     
-    25
     
-    0
-    
-    0
-    
-    0
-    
-    5
-    
-    0
-    
-    12
-    
-    0
-    
-    0
-    
-    0
-    
-    10
-    
-    8
-    
-    0
-    
-    0
-    
-    0
-    
-    16
-    
-    0
-    
-    14
-    
-    20
-    
-    18
-    
-    0
+25
+
+0
+
+0
+
+0
+
+5
+
+0
+
+12
+
+0
+
+0
+
+0
+
+10
+
+8
+
+0
+
+0
+
+0
+
+16
+
+0
+
+14
+
+20
+
+18
+
+0
