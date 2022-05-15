@@ -12,7 +12,7 @@ Registered Mail id : janu.gobi@gmail.com
 
 Steps to Execute the Program:
 
-1.  To Execute PrimsKruskalAlgo.exe (to execute both Prim's and Krushkal Algorithm at a time, Else to execute PrimAlgo.exe or Krushkal.exe to execute separately)
+1.  To Execute PrimsKruskalAlgo.exe to execute both Prim's and Krushkal Algorithm at a time, (or Else to execute PrimAlgo.exe or Krushkal.exe to execute separately)
 2.  To Enter the Number of Vertices : Eg : 7
 3.  To Enter Diagonal Elements for given number of Vertices. (Please use the given sample values (bullet # 5) to copy paste)
 
