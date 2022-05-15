@@ -14,9 +14,11 @@ Steps to Execute the Program:
 
 1.  To Execute PrimsKruskalAlgo.exe (to execute both Prim's and Krushkal Algorithm at a time, Else to execute PrimAlgo.exe or Krushkal.exe to execute separately)
 2.  To Enter the Number of Vertices : Eg : 7
-3.  To Enter Diagonal Elements for given number of Vertices. (Please use the given values (bullet # 5) if needed)
+3.  To Enter Diagonal Elements for given number of Vertices. (Please use the given sample values (bullet # 5) to copy paste)
 
-    Eg :      Enter the Number of Vertices : 7
+    Eg :      
+              
+              Enter the Number of Vertices : 7
 
               Only the Diagonal Elements are enough to get stored
               
@@ -83,25 +85,45 @@ Steps to Execute the Program:
     
     
 25
+
 0
+
 0
+
 0
+
 5
+
 0
+
 12
+
 0
+
 0
+
 0
+
 10
+
 8
+
 0
+
 0
+
 0
+
 16
+
 0
+
 14
+
 20
+
 18
+
 0
 
 
